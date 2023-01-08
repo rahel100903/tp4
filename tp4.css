@@ -1,0 +1,68 @@
+/** exo3 Q2**/
+body{
+    background-image: url(txt.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+/** exo1 Q1**/
+h1 {
+     color: red;
+     text-align: center;
+     text-decoration: underline;
+     text-shadow: 3px 2px;
+   }
+/**  exo1 Q2**/ 
+#id1 {
+       color: green;
+       text-align: center;
+     }
+h1.class1{
+       color: rgb(239, 239, 22);
+       text-align: center;
+         }
+/** exo2 Q1**/        
+p.p1{
+    color: green;
+    }
+
+p.p2{
+    color: rgb(0, 100, 0);
+    }
+
+p.p3{
+    color: #3cb371;
+}
+/** exo2 Q3**/
+a{
+    text-decoration:none;  
+      }
+/** exo2 Q4 Q7**/
+p.majuscule{
+    text-transform: capitalize;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+/** exo2 Q5 Q7**/
+p.espace{
+    line-height: 1.5;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-style: italic;
+}
+/** exo3 Q1**/
+div{
+    background-color: green;
+    opacity: 0.3;
+}
+/** exo4 **/
+div{
+    
+  border-style:solid;
+  border-width:medium;
+  border-color:red;
+ 
+  margin:25px 50px 75px 100px;
+  padding:50px 30px 50px 90px; 
+}
